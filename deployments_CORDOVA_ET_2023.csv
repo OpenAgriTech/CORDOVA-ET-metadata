@@ -7,7 +7,7 @@ Egypt Season 5,Kafr El-Shaikh,eg,cordova_et_eg,Sakha_Station,1.273921047,31.0965
 Egypt Menia,Menia,eg,cordova_et_eg,Menia,2.64,28.10107,30.746473,5.0,Africa/Cairo,2.9,1.85,"eg-009, eg-010, eg-011, eg-012",,wheat_2020,1.0,2022-09-13,,0,4.0,eg-py-01,2022-09-13
 Egypt Season 7,Kafr El-Shaikh,eg,cordova_et_eg,Sakha_Station,1.273921047,31.096579,30.922311,5.0,Africa/Cairo,2.9,1.85,"eg-005, eg-006, eg-007, eg-008",Wheat,wheat_2020,1.0,2022-11-24,,0,3.0,,
 Egypt Zankaloun,Zankaloun,eg,cordova_et_eg,Zankaloun,1.273921047,30.580285,31.433497,9.0,Africa/Cairo,2.0,1.4,"eg_001, eg_002, eg_003, eg_004",,maize_2020,2.0,,,0,2.0,,
-Spain IAS 2020,IAS-CSIC,es,cordova_et_es,IAS-CSIC,1.273921047,37.857916,-4.8017,96.0,Europe/Madrid,2.0,2.9,"es_004_br, es_005, es_007",Wheat,,1.0,2020-03-12,2020-06-04,1,3.0,,
+Spain IAS 2020,IAS-CSIC,es,cordova_et_es,IAS-CSIC,1.273921047,37.857916,-4.8017,96.0,Europe/Madrid,2.0,2.9,"es_004_br, es_005, es_007",Wheat,wheat_2021,1.0,2020-03-12,2020-06-04,1,3.0,,
 Spain IAS Sorghum,IAS-CSIC,es,cordova_et_es,IAS-CSIC,1.273921047,37.860658,-4.795877,96.0,Europe/Madrid,2.0,2.9,"es_002, es_004, es_004_br, es_005, es_006, es_007",Sorghum,,1.1,2020-07-07,2020-10-26,1,3.0,,
 Spain IAS 2021,IAS-CSIC,es,cordova_et_es,IFAPA_IoT,1.273921047,37.858252,-4.803926,96.0,Europe/Madrid,2.9,2.9,"es_001, es_003, es_006, es_007",Wheat,,1.0,2021-02-21,2021-04-15,1,3.0,,
 Spain IAS2,IAS-CSIC,es,cordova_et_es,IFAPA2,1.273921047,37.860348,-4.796451,96.0,Europe/Madrid,2.9,2.9,"es_001, es_003, es_006, es_007",Wheat,,1.0,2021-04-16,2021-06-04,1,3.0,,
